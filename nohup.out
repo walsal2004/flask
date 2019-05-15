@@ -1,0 +1,63 @@
+[W 13:59:10.839 NotebookApp] Collisions detected in /home/ubuntu/.jupyter/jupyter_notebook_config.py and /home/ubuntu/.jupyter/jupyter_notebook_config.json config files. /home/ubuntu/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'sha1:2429a9790e78:37d48f20a8fd794e9915e0fdb378316a59cafff3' ignored, using 'sha1:574c5a9c56ec:1a80ee30a91c397c7bddb84f4a6761a8e93419df'"
+      }
+    }
+[I 13:59:11.708 NotebookApp] [nb_conda_kernels] enabled, 21 kernels found
+[I 13:59:11.721 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 13:59:12.217 NotebookApp] Loading IPython parallel extension
+[I 13:59:12.271 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 13:59:12.271 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 13:59:12.799 NotebookApp] [nb_conda] enabled
+[I 13:59:12.804 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebook/dash-flask-login
+[I 13:59:12.804 NotebookApp] 0 active kernels
+[I 13:59:12.804 NotebookApp] The Jupyter Notebook is running at:
+[I 13:59:12.804 NotebookApp] https://ip-172-31-28-182:8889/
+[I 13:59:12.804 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:00:28.044 NotebookApp] SSL Error on 12 ('5.156.169.82', 1762): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:28.051 NotebookApp] SSL Error on 11 ('5.156.169.82', 2011): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[I 14:00:33.957 NotebookApp] 302 GET / (5.156.169.82) 0.99ms
+[I 14:00:34.145 NotebookApp] 302 GET /tree? (5.156.169.82) 0.60ms
+[W 14:00:35.279 NotebookApp] SSL Error on 12 ('5.156.169.82', 1388): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.311 NotebookApp] SSL Error on 13 ('5.156.169.82', 1586): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.315 NotebookApp] SSL Error on 14 ('5.156.169.82', 1959): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.321 NotebookApp] SSL Error on 15 ('5.156.169.82', 1830): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.341 NotebookApp] SSL Error on 16 ('5.156.169.82', 2129): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.888 NotebookApp] SSL Error on 12 ('5.156.169.82', 1228): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.940 NotebookApp] SSL Error on 13 ('5.156.169.82', 1845): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:00:35.982 NotebookApp] SSL Error on 16 ('5.156.169.82', 2250): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:01:24.327 NotebookApp] 401 POST /login?next=%2Ftree%3F (5.156.169.82) 1.49ms referer=https://18.191.188.253:8889/login?next=%2Ftree%3F
+[W 14:01:25.196 NotebookApp] SSL Error on 16 ('5.156.169.82', 2526): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[I 14:01:41.590 NotebookApp] 302 POST /login?next=%2Ftree%3F (5.156.169.82) 0.96ms
+[W 14:01:43.529 NotebookApp] SSL Error on 17 ('5.156.169.82', 1456): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:01:56.572 NotebookApp] SSL Error on 12 ('5.156.169.82', 1442): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:01:56.587 NotebookApp] SSL Error on 16 ('5.156.169.82', 1063): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:12.501 NotebookApp] SSL Error on 12 ('5.156.169.82', 1938): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:12.603 NotebookApp] SSL Error on 16 ('5.156.169.82', 2177): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:35.240 NotebookApp] SSL Error on 17 ('5.156.169.82', 1596): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:35.248 NotebookApp] SSL Error on 16 ('5.156.169.82', 2231): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:35.850 NotebookApp] SSL Error on 16 ('5.156.169.82', 2613): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[W 14:02:36.127 NotebookApp] SSL Error on 17 ('5.156.169.82', 1850): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[I 14:02:38.925 NotebookApp] Kernel started: be127f7d-6bec-4dc1-82b6-44b293f62a49
+[W 14:02:39.773 NotebookApp] SSL Error on 25 ('5.156.169.82', 2308): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:833)
+[I 14:02:40.657 NotebookApp] Adapting to protocol v5.1 for kernel be127f7d-6bec-4dc1-82b6-44b293f62a49
+[C 14:04:32.534 NotebookApp] received signal 15, stopping
+[I 14:04:32.535 NotebookApp] Shutting down 1 kernel
+[I 14:04:32.636 NotebookApp] Kernel shutdown: be127f7d-6bec-4dc1-82b6-44b293f62a49
+[W 08:41:07.711 NotebookApp] Collisions detected in /home/ubuntu/.jupyter/jupyter_notebook_config.py and /home/ubuntu/.jupyter/jupyter_notebook_config.json config files. /home/ubuntu/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'sha1:2429a9790e78:37d48f20a8fd794e9915e0fdb378316a59cafff3' ignored, using 'sha1:574c5a9c56ec:1a80ee30a91c397c7bddb84f4a6761a8e93419df'"
+      }
+    }
+[I 08:41:08.206 NotebookApp] [nb_conda_kernels] enabled, 21 kernels found
+[I 08:41:08.427 NotebookApp] The port 8889 is already in use, trying another port.
+[I 08:41:08.427 NotebookApp] The port 8890 is already in use, trying another port.
+[I 08:41:08.447 NotebookApp] Loading IPython parallel extension
+[I 08:41:08.482 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 08:41:08.482 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 08:41:08.728 NotebookApp] [nb_conda] enabled
+[I 08:41:08.731 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebook/dash-flask-login
+[I 08:41:08.731 NotebookApp] 0 active kernels
+[I 08:41:08.731 NotebookApp] The Jupyter Notebook is running at:
+[I 08:41:08.731 NotebookApp] https://ip-172-31-28-182:8891/
+[I 08:41:08.731 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
